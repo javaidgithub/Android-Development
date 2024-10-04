@@ -20,8 +20,9 @@ These helped me align content properly within my widgets.
 Background Colors for List Items: I added custom styling to enhance the UI by alternating background colors for better readability.
 
 **Output**
+
 ![Screenshot 2024-10-04 204152](https://github.com/user-attachments/assets/e78fd768-a2ab-4dd1-ba90-c58adc31ebae)
 
-![Screenshot 2024-10-04 204215](https://github.com/user-attachments/assets/1dff0a73-7fef-4db2-8448-1a8a4ac8e6f6)
+ ![Screenshot 2024-10-04 204215](https://github.com/user-attachments/assets/1dff0a73-7fef-4db2-8448-1a8a4ac8e6f6)
 
 
